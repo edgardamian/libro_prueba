@@ -15,9 +15,11 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# Población
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+En esta sección podrás encontrar información estadística de calidad, pertinente, veraz y oportuna. En esta sección se recuperan datos de distintas fuentes y escalas, con la finalidad de que esta sirva en el mejor conocimiento del municipio y apoyar la toma de decisiones en el municipio y la región.
+  
+Los datos se encuentran en constante proceso de actualización para proporcionar la información más actualizada y completa posible, si no encuentras información de un tema en particular ponte en contacto con nosotros.
 
 ## Usage 
 

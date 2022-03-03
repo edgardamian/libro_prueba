@@ -1,5 +1,4 @@
 --- 
-lang: "es"
 title: "MORELIA EN DATOS"
 author: "Instituto Municipal de Planeación de Morelia"
 date: "`r Sys.Date()`"

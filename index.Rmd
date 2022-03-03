@@ -2,17 +2,17 @@
 title: "MORELIA EN DATOS"
 author: "Instituto Municipal de Planeación de Morelia"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+output: pdf_document
 documentclass: book
-bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
+bibliography:
+- book.bib
+- packages.bib
+description: |-
   En esta sección podrás encontrar información estadística de calidad, pertinente, veraz y oportuna. En esta sección se recuperan datos de distintas fuentes y escalas, con la finalidad de que esta sirva en el mejor conocimiento del municipio y apoyar la toma de decisiones en el municipio y la región.
-  
   Los datos se encuentran en constante proceso de actualización para proporcionar la información más actualizada y completa posible, si no encuentras información de un tema en particular ponte en contacto con nosotros.
 link-citations: yes
 github-repo: rstudio/bookdown-demo
+site: bookdown::bookdown_site
 ---
 
 # Población
